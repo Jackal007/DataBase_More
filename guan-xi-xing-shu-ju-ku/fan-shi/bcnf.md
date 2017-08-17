@@ -23,13 +23,9 @@
 候选码：
 
 ```
-(Stu,Teacher)-
->
-Course
+(Stu,Teacher)->Course
 
-(Stu,Course)-
->
-Teacher
+(Stu,Course)->Teacher
 ```
 
 这两个码由两个属性组成，而且它们是相互交叉的，所以不存在传递依赖，所以为3NF。

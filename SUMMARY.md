@@ -6,8 +6,6 @@
     * [表的切分](shu-ju-ku-diao-you/biao-de-qie-fen.md)
       * 水平切分
       * 垂直切分
-
-      * 切分方式
     * [集群](shu-ju-ku-diao-you/ji-qun.md)
     * [读写分离策略](shu-ju-ku-diao-you/du-xie-fen-li-ce-lve.md)
     * [负载均衡策略](shu-ju-ku-diao-you/fu-zai-jun-heng-ce-lve.md)
@@ -20,6 +18,4 @@
     * [引擎](guan-xi-xing-shu-ju-ku/mysql/yin-qing.md)
       * InnoDB
       * MyISAM
-
-
 

@@ -18,5 +18,6 @@
     * [引擎](guan-xi-xing-shu-ju-ku/mysql/yin-qing.md)
       * InnoDB
       * MyISAM
-* 非关系型数据库
+  * 锁
+* [非关系型数据库](fei-guan-xi-xing-shu-ju-ku.md)
 
